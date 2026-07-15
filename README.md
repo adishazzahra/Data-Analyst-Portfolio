@@ -1,8 +1,10 @@
 # 📊 Data Analyst Portfolio
 
-Welcome to my Data Analyst Portfolio!
+Hi! I'm Adisha, an Information Systems graduate with a passion for data analytics and business problem-solving.
 
-This repository contains projects that demonstrate my skills in:
+This repository showcases my journey in building data analytics skills through hands-on projects using real-world datasets.
+
+## 🛠️ Skills & Tools
 
 - SQL
 - Python (Pandas, NumPy, Matplotlib)
@@ -13,9 +15,20 @@ This repository contains projects that demonstrate my skills in:
 - Data Visualization
 - Machine Learning
 
-Each project includes:
+## 📁 What You'll Find
+
+Each project will include:
 - Project overview
 - Dataset information
-- Analysis process
+- Data cleaning & preprocessing
+- Exploratory Data Analysis (EDA)
+- Data visualization
 - Key insights
-- Tools used
+- Business recommendations
+- Tools and technologies used
+
+## 🚀 Projects
+
+Currently building my data analytics portfolio through various projects involving data exploration, visualization, and machine learning.
+
+Stay tuned for upcoming projects!
