@@ -2,27 +2,39 @@
 
 ## 📌 Overview
 
-This project analyzes chocolate sales data to explore sales trends, product performance, and business insights.
+This project analyzes chocolate sales data to uncover sales trends, product performance, and regional sales insights. The analysis aims to identify patterns that can support data-driven business decisions.
 
 ## 🗂️ Dataset
 
-Chocolate Sales Dataset containing sales transaction data, including product, country, sales person, and sales information.
+The Chocolate Sales Dataset contains transaction-level sales data, including:
+- Sales Person
+- Country
+- Product
+- Date
+- Amount
+- Boxes Shipped
 
-## 🛠️ Tools
+## 🛠️ Tools & Technologies
 
 - Python
 - Pandas
+- NumPy
 - Matplotlib
-- Seaborn
+- Jupyter Notebook
 
-## 📊 Analysis
+## 📊 Analysis Performed
 
-This project includes:
-- Data cleaning
+- Data cleaning and preprocessing
+- Data type conversion
 - Exploratory Data Analysis (EDA)
+- Sales trend analysis
+- Product performance analysis
+- Country-wise sales analysis
+- Sales person performance analysis
 - Data visualization
-- Business insights
 
-## 🚀 Status
+## 🚀 Project Status
 
-In Progress
+🔄 In Progress
+
+Further business insights and recommendations will be added as the analysis progresses.
