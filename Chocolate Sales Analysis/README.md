@@ -35,7 +35,7 @@ The Chocolate Sales Dataset contains transaction-level sales data, including:
 
 ## 🚀 Project Status
 
-🔄 In Progress
+✅ Completed
 
 ## 📈 Key Insights
 
