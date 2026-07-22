@@ -1,8 +1,8 @@
 # 📊 Data Analyst Portfolio
 
-Hi! I'm Adisha, an Information Systems graduate with a passion for data analytics and business problem-solving.
+Hi! I'm Adisha, an Information Systems graduate with a passion for data analytics and transforming data into meaningful business insights.
 
-This repository showcases my journey in building data analytics skills through hands-on projects using real-world datasets.
+This repository documents my journey as I develop my data analytics skills through hands-on projects using real-world datasets. Each project focuses not only on data exploration and visualization, but also on generating actionable business insights and recommendations.
 
 ## 🛠️ Skills & Tools
 
@@ -10,25 +10,32 @@ This repository showcases my journey in building data analytics skills through h
 - Python (Pandas, NumPy, Matplotlib)
 - Excel
 - Tableau / Power BI
-- Data Cleaning
+- Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
 - Data Visualization
 - Machine Learning
 
 ## 📁 What You'll Find
 
-Each project will include:
+Each project typically includes:
+
 - Project overview
-- Dataset information
+- Dataset description
 - Data cleaning & preprocessing
 - Exploratory Data Analysis (EDA)
 - Data visualization
 - Key insights
 - Business recommendations
+- Conclusion
 - Tools and technologies used
 
 ## 🚀 Projects
 
-Currently building my data analytics portfolio through various projects involving data exploration, visualization, and machine learning.
+| Project | Description | Status |
+|---------|-------------|--------|
+| 🍫 Chocolate Sales Analysis | Exploratory Data Analysis of chocolate sales to identify sales trends, product performance, regional purchasing patterns, and business recommendations. | ✅ Completed |
+| 🔜 More projects coming soon | SQL, Excel, Tableau/Power BI, and Machine Learning projects. | 🚧 In Progress |
 
-Stay tuned for upcoming projects!
+## 🎯 Career Goal
+
+My goal is to build a strong portfolio that demonstrates my analytical thinking, technical skills, and ability to solve real-world business problems using data.
